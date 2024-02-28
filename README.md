@@ -86,7 +86,5 @@ first line in the subclass's constructor.
   subclass with the following methods:
   `constructor`, `getter` (for color), `toString` and
   `equals` methods.
-- Ensure that the provided test driver gives the
+- Ensure that the provided test driver (main program) gives the
   correct results.
-- `Run the predefined test` to ensure that the main has been properly updated.
-- `Submit` your code on Replit.
