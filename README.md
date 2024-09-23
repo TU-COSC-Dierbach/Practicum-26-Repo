@@ -1,6 +1,6 @@
 # Instructions  
 
-## PRACTICUM 26 - ColorXYCoord Subclass (10 pts.)<br>
+## PRACTICUM 26 - ColorXYCoord Subclass<br>
 
 ### BACKGROUND
 
